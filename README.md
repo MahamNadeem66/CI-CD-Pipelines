@@ -24,3 +24,5 @@ To run this project, you need the following installed:
 1. **Clone the Repository**: 
    ```bash
    git clone https://github.com/username/CI-CD-Pipeline-Bytewise.git
+   Configure Jenkins: Add your Docker credentials to Jenkins.
+Run the Jenkins Pipeline: Jenkins will handle the rest—building, pushing, and deploying the app to Kubernetes.
